@@ -1,4 +1,4 @@
-# BiggestASCII
+# Worlds_Largest_ASCII_Art
 
 This repository, "Worlds_Largest_ASCII_Art", contains the world's largest ASCII image, made up of 31 million characters, featuring a flower in portrait orientation. The artwork represents a highly detailed and intricate conversion from a high-resolution image into an ASCII representation, showcasing the power of text art at an enormous scale.
 
